@@ -1,2 +1,2 @@
 # PDSII_atv
-Teste de repositórip
+Teste de repositório
